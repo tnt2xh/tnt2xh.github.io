@@ -4,7 +4,7 @@ Source: https://github.com/fediazgon/cone-detector-tf
 
 Hayden Hughes | cic693
 
-## Reqiurements 
+## Requirements 
 
 To use and get the code running install the following below.
 
